@@ -1,0 +1,17 @@
+{
+    "name": "fjordone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Viktoriya Grabowska"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fjordone-bower.git"
+    },
+    "description": "Fjord One font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
